@@ -1,0 +1,15 @@
+C:\work\cporg\txetRpg2\txetRpg2\bin\Debug\net6.0\txetRpg2.exe
+C:\work\cporg\txetRpg2\txetRpg2\bin\Debug\net6.0\txetRpg2.deps.json
+C:\work\cporg\txetRpg2\txetRpg2\bin\Debug\net6.0\txetRpg2.runtimeconfig.json
+C:\work\cporg\txetRpg2\txetRpg2\bin\Debug\net6.0\txetRpg2.dll
+C:\work\cporg\txetRpg2\txetRpg2\bin\Debug\net6.0\txetRpg2.pdb
+C:\work\cporg\txetRpg2\txetRpg2\obj\Debug\net6.0\txetRpg2.csproj.AssemblyReference.cache
+C:\work\cporg\txetRpg2\txetRpg2\obj\Debug\net6.0\txetRpg2.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\cporg\txetRpg2\txetRpg2\obj\Debug\net6.0\txetRpg2.AssemblyInfoInputs.cache
+C:\work\cporg\txetRpg2\txetRpg2\obj\Debug\net6.0\txetRpg2.AssemblyInfo.cs
+C:\work\cporg\txetRpg2\txetRpg2\obj\Debug\net6.0\txetRpg2.csproj.CoreCompileInputs.cache
+C:\work\cporg\txetRpg2\txetRpg2\obj\Debug\net6.0\txetRpg2.dll
+C:\work\cporg\txetRpg2\txetRpg2\obj\Debug\net6.0\refint\txetRpg2.dll
+C:\work\cporg\txetRpg2\txetRpg2\obj\Debug\net6.0\txetRpg2.pdb
+C:\work\cporg\txetRpg2\txetRpg2\obj\Debug\net6.0\txetRpg2.genruntimeconfig.cache
+C:\work\cporg\txetRpg2\txetRpg2\obj\Debug\net6.0\ref\txetRpg2.dll
